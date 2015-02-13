@@ -18,6 +18,6 @@ This only contains the tweet text and the timestamp
 
 Will update the repo later with a MySQL dump containing the full JSON received for each tweet, as well as some more user friendly formats a bit later.
 
-If you do do anything interesting with the data, please [let me know](https://twitter.com/allankent).
+If you do do anything interesting with the data, please [let me know](https://twitter.com/allankent) and I'll link to it from here.
 
 Pull requests welcome.
