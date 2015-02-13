@@ -6,7 +6,7 @@ Currently contains a MySQL dump of a table called tweets:
 
 Interesting fields in the table:
 
-- ```tweet_id``` is the id of the tweet as identified by Twitter.   You can retrieve the full detail about the tweet from the (Twitter API)[https://dev.twitter.com/rest/reference/get/statuses/show/%3Aid]
+- ```tweet_id``` is the id of the tweet as identified by Twitter.   You can retrieve the full detail about the tweet from the [Twitter API](https://dev.twitter.com/rest/reference/get/statuses/show/%3Aid)
 - ```ts``` is a MySQL timestamp of when we received the tweet fom the Twitter API
 - ```text``` is the extracted tweet text
 
