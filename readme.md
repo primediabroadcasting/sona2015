@@ -12,6 +12,6 @@ Interesting fields in the table:
 
 Will update the repo later with a MySQL dump containing the full JSON received for each tweet, as well as some more user friendly formats a bit later.
 
-If you do do anything interesting with the data, please let me know.
+If you do do anything interesting with the data, please [let me know](https://twitter.com/allankent).
 
 Pull requests welcome.
